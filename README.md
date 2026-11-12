@@ -196,4 +196,3 @@ Through this implementation, you can understand:
 - Preserve additional code metadata where needed.
 - Explore combining code splitting with embeddings and vector databases.
 - Build a code-focused Retrieval-Augmented Generation (RAG) application.
-
