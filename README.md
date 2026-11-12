@@ -197,10 +197,3 @@ Through this implementation, you can understand:
 - Explore combining code splitting with embeddings and vector databases.
 - Build a code-focused Retrieval-Augmented Generation (RAG) application.
 
-## Repository
-
-GitHub: https://github.com/mani787060/python-code-splitter
-
----
-
-**Part of my Generative AI learning journey:** exploring LangChain components and the building blocks used in practical LLM and RAG applications.
